@@ -1,1 +1,1 @@
-Blog App created with Node.js and Vue.js
+Blog App created with Node.js and Vue.js - develop
